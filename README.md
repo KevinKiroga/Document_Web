@@ -14,7 +14,7 @@ Debes usar git para clonar el repositorio. Abre tu CMD y valla al siguiente dire
 ## 2. Acceder al proyecto
 Después de clonar, cambia la direccion y entrar carpeta del proyecto usando:
 ```sh
-    cd Documento_web
+    cd Document_Web
 ```
 ## 3. Abrir el proyecto
 Puedes abrir el proyecto manualmente en tu editor de código preferido. Si tienes Visual Studio Code instalado, puedes abrir el proyecto usando:

@@ -9,7 +9,7 @@
 ## 1. Clonar el Repositorio
 Debes usar git para clonar el repositorio. Abre tu CMD y valla al siguiente directorio `C:/xampp/htdocs/`. Luego, ejecuta el siguiente comando:
 ```sh
-    git clone https://github.com/KevinKiroga/Document_Api.git](https://github.com/KevinKiroga/Documento_web.git
+    git clone https://github.com/KevinKiroga/Document_Web.git
 ```
 ## 2. Acceder al proyecto
 Después de clonar, cambia la direccion y entrar carpeta del proyecto usando:

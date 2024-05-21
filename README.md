@@ -31,3 +31,11 @@ Inicia el servidor de react:
 ```sh
     npm run dev
 ```
+## Auntenticacion del usuario
+```json
+{
+  "email": "usuario@gmail.com",
+  "password": "usuario"
+}
+```
+

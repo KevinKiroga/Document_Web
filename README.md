@@ -29,5 +29,5 @@ Instala las dependencias necesarias de Node utilizando el comando:
 ## 5. Iniciar el servidor
 Inicia el servidor de react:
 ```sh
-    npm run serve
+    npm run dev
 ```

@@ -1,1 +1,1 @@
-<img src="" alt="https://media.licdn.com/dms/image/D4D12AQFZkbeVaofxzQ/article-cover_image-shrink_600_2000/0/1708033784779?e=2147483647&v=beta&t=8xtvmqPnaQ-hvmkf3Yj3ZhlytJ6mNTPopeFs5yRwazI" srcset="" />
+<img src="https://media.licdn.com/dms/image/D4D12AQFZkbeVaofxzQ/article-cover_image-shrink_600_2000/0/1708033784779?e=2147483647&v=beta&t=8xtvmqPnaQ-hvmkf3Yj3ZhlytJ6mNTPopeFs5yRwazI" alt="" srcset="" />
